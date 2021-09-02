@@ -24,10 +24,6 @@
   * lens
   * tripod stand
  
-# Horizontal lines
----
-I am a horizontal line.
----
 
 ### About ME
 [AboutME](https://github.com/SarathArrepu/assignment2-Arrepu/blob/main/AboutME.md)
@@ -40,6 +36,16 @@ I am a horizontal line.
 | pizza     |pizza hut|$12.2| 
 |Orangejuice| Maceys  |$2   |
 | pasta     | A & G   |$15.1|
+
+
+###### QUOTES
+---------
+> “Be yourself; everyone else is already taken.” 
+*** Oscar Wilde.
+
+> “Two things are infinite: the universe and human stupidity; and I'm not sure about the universe.”
+*** Albert Einstein.
+
 
 
 # Auto italic 
