@@ -28,6 +28,7 @@
 ### About ME
 [AboutME](https://github.com/SarathArrepu/assignment2-Arrepu/blob/main/AboutME.md)
 
+**FOOD RECOMMEDATIONS**
 ---------
 #### The below table has the food recommedations in maryville city. My personal choice would be pizza which is available in pizza hut located opposite to shell petrol , orange juice at macey's is simply amazing which is made of fresh pulp and adundant in vitamin c. For dinner white sauce pasta at A&G is just mouth watering its the chef's recommdation. I would suggest everyone to try these.
 
@@ -38,7 +39,7 @@
 | pasta     | A & G   |$15.1|
 
 
-###### QUOTES
+## **QUOTES**
 ---------
 > “Be yourself; everyone else is already taken.” 
 ***Oscar Wilde***.
