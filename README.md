@@ -30,9 +30,7 @@ I am a horizontal line.
 ---
 
 # Addition of links
-[My Git link](https://github.com/SarathArrepu/webapps_git_demo_1_NE/edit/main/README.md)
-
-<https://github.com/SarathArrepu/webapps_git_demo_1_NE/edit/main/README.md>
+[AboutME](https://github.com/SarathArrepu/assignment2-Arrepu/blob/main/AboutME.md)
 
 # Addition of images
 ![My picture](https://github.com/SarathArrepu/webapps_git_demo_1_NE/edit/main/README.md)
