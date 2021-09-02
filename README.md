@@ -57,7 +57,7 @@ The algorithm can be understood as a fire spreading on the graph: at the zeroth 
 More precisely, the algorithm can be stated as follows: Create a queue q which will contain the vertices to be processed and a Boolean array used[] which indicates for each vertex, if it has been lit (or visited) or not.
 Initially, push the source s to the queue and set used[s]=true, and for all other vertices v set used[v]=false. Then, loop until the queue is empty and in each iteration, pop a vertex from the front of the queue. Iterate through all the edges going out of this vertex and if some of these edges go to vertices that are not already lit, set them on fire and place them in the queue.
 
-[ForMoreinfo](https://cp-algorithms.com/graph/breadth-first-search.html)
+[ForMoreinfomation](https://cp-algorithms.com/graph/breadth-first-search.html)
 
 ```
 vector<vector<int>> adj;  // adjacency list representation
@@ -83,7 +83,5 @@ while (!q.empty()) {
         }
     }
 }
+
 ```
-~~~
-echo 
-~~~
