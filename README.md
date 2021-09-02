@@ -29,11 +29,8 @@
 I am a horizontal line.
 ---
 
-# Addition of links
+### About ME
 [AboutME](https://github.com/SarathArrepu/assignment2-Arrepu/blob/main/AboutME.md)
-
-# Addition of images
-![My picture](https://github.com/SarathArrepu/webapps_git_demo_1_NE/edit/main/README.md)
 
 # Auto italic 
 I am _totally_ awseome
