@@ -26,13 +26,11 @@
  
 
 # About ME
----------
 [ClickHere](https://github.com/SarathArrepu/assignment2-Arrepu/blob/main/AboutME.md)
 
 
 ---------
 # **FOOD RECOMMEDATIONS**
----------
 #### The below table has the food recommedations in maryville city. My personal choice would be pizza which is available in pizza hut located opposite to shell petrol , orange juice at macey's is simply amazing which is made of fresh pulp and adundant in vitamin c. For dinner white sauce pasta at A&G is just mouth watering its the chef's recommdation. I would suggest everyone to try these.
 
 |Food/Drinks|location |price|
@@ -43,7 +41,6 @@
 
 
 # **QUOTES**
----------
 > “Be yourself; everyone else is already taken.” 
 ***Oscar Wilde***.
 
@@ -52,7 +49,7 @@
 
 -----------
 # Code Fencing - Graphs Traversal/connected/shortest paths
------------
+
 > The algorithm takes as input an unweighted graph and the id of the source vertex s. The input graph can be directed or undirected, it does not matter to the algorithm.
 The algorithm can be understood as a fire spreading on the graph: at the zeroth step only the source s is on fire. At each step, the fire burning at each vertex spreads to all of its neighbors. In one iteration of the algorithm, the "ring of fire" is expanded in width by one unit (hence the name of the algorithm).
 More precisely, the algorithm can be stated as follows: Create a queue q which will contain the vertices to be processed and a Boolean array used[] which indicates for each vertex, if it has been lit (or visited) or not.
