@@ -8,7 +8,7 @@
 
  Iceland, island country located in the North Atlantic Ocean. Lying on the constantly active geologic border between North America and Europe, **Iceland is a land of vivid contrasts of climate, geography, and culture**. Sparkling glaciers, such as Vatna Glacier (Vatnajökull), Europe’s largest, lie across its ruggedly beautiful mountain ranges; abundant hot geysers provide heat for many of the country’s homes and buildings and allow for hothouse agriculture year-round; and the offshore Gulf Stream provides a surprisingly mild climate for what is one of the northernmost inhabited places on the planet.
 
-  
+---  
 # Directions to Statue of Liberty from Maryville  
 1. Take a cab to Kansas airport from Maryville.
     1. Book cab in Uber/Tap ride.
@@ -18,6 +18,7 @@
     2. Take a ferry and reach the monument.
 3. Take a seflie and post.
 
+---
 # Items to carry(unordered)
 * Cellphone is most important 
 * Camera
@@ -39,7 +40,7 @@
 |Orangejuice| Maceys  |$2   |
 | pasta     | A & G   |$15.1|
 
-
+---
 # **QUOTES**
 > “Be yourself; everyone else is already taken.” 
 ***Oscar Wilde***.
