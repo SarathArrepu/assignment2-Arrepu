@@ -9,14 +9,14 @@
  Iceland, island country located in the North Atlantic Ocean. Lying on the constantly active geologic border between North America and Europe, **Iceland is a land of vivid contrasts of climate, geography, and culture**. Sparkling glaciers, such as Vatna Glacier (Vatnajökull), Europe’s largest, lie across its ruggedly beautiful mountain ranges; abundant hot geysers provide heat for many of the country’s homes and buildings and allow for hothouse agriculture year-round; and the offshore Gulf Stream provides a surprisingly mild climate for what is one of the northernmost inhabited places on the planet.
 
 ***
-Directions to Statue of Liberty from Maryville
+Directions to Venice
 ***
 1. Take a cab to Kansas airport from Maryville.
     1. Book cab in Uber/Tap ride.
-    2. book your ticket to new york.
-2. Once you land in New york
-    1. Book a cab to NY 10004.
-    2. Take a ferry and reach the monument.
+    2. book your ticket to Venice.
+2. Once you land in venice
+    1. Make a mark of places you would like to visit.
+    2. Take a boat and visit all your favourite places.
 3. Take a seflie and post.
 
 ***
