@@ -28,7 +28,7 @@ Directions to Venice
   * tripod stand
  
 ***
-About ME
+About ME - Sarath Arrepu
 ***
 [ClickHere](https://github.com/SarathArrepu/assignment2-Arrepu/blob/main/AboutME.md)
 
