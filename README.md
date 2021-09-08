@@ -43,6 +43,7 @@ About ME - Sarath Arrepu
 | pizza     |pizza hut|$12.2| 
 |Orangejuice| Maceys  |$2   |
 | pasta     | A & G   |$15.1|
+| noodles   | Walmart |$16.1|
 
 ***
 **QUOTES**
