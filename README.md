@@ -66,7 +66,7 @@ Initially, push the source s to the queue and set used[s]=true, and for all othe
 [ForMoreinfomation](https://cp-algorithms.com/index.html)
 
 ```
-vector<vector<int>> adj;  // adjacency list representation
+vector<vector<int>> adj;  // adjacency `list` representation
 int n; // number of nodes
 int s; // source vertex
 
